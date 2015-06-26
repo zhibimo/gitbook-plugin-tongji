@@ -4,7 +4,7 @@
   "main": "index.js",
   "version": "0.0.1",
   "engines": {
-    "gitbook": "2.0.1"
+    "gitbook": ">1.x.x"
   },
   "homepage": "https://github.com/zhibimo/gitbook-plugin-tongji",
   "repository": {
